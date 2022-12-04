@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything front end
 - 🌱 I’m currently learning Svelte
 - 💞️ I’m looking to collaborate on React, Redux
-- 📫 How to reach me Tweet @GhostRiderCFC
+- 📫 How to reach me Tweet @_AabhasArora
 
 <!---
 AabhasArora/AabhasArora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
